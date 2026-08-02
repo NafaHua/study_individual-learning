@@ -1,7 +1,3 @@
-[-艾宾浩斯学习计划.html](https://github.com/user-attachments/files/30629866/-.html)
-# study_individual-learning
-individual learning_
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
